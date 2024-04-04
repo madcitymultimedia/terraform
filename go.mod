@@ -106,7 +106,7 @@ require (
 	google.golang.org/genproto v0.0.0-20230822172742-b8732ec3820d
 	google.golang.org/grpc v1.59.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	honnef.co/go/tools v0.5.0-0.dev.0.20230826160118-ad5ca31ff221
 	k8s.io/api v0.25.5
 	k8s.io/apimachinery v0.25.5
